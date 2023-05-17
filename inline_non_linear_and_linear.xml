@@ -42,7 +42,7 @@
         				</NonLinear>
 			         </NonLinearAds>
                 </Creative>
-            </Creative>
+            <Creative>
                 <Linear>
             <TrackingEvents>
               <Tracking event="start" ><![CDATA[https://example.com/tracking/start]]></Tracking>
