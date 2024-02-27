@@ -7,7 +7,7 @@
       <AdServingId>a532d16d-4d7f-4440-bd29-2ec05553fc80</AdServingId>
       <AdTitle>Inline Simple Ad</AdTitle>
       <AdVerifications></AdVerifications>
-      <Advertiser><![CDATA[IAB Sample Company]]</Advertiser>
+      <Advertiser><![CDATA[IAB Sample Company]]></Advertiser>
       <Category authority="https://www.iabtechlab.com/categoryauthority">AD CONTENT description category</Category>
       <Creatives>
         <Creative id="5480" sequence="1" adId="2447226">
